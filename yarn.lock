@@ -10681,10 +10681,10 @@ three.interactive@^1.6.1:
   resolved "https://registry.yarnpkg.com/three.interactive/-/three.interactive-1.6.1.tgz#cf8382f8ed9d960be39fcd506cf6beec5a99adea"
   integrity sha512-aL1d25kThuqqijg9fbUvXGb5JYiw+TqEmvt/Mic4Hi+FWhICWKKPZqZTymSV0d5AzmlQzHpYtrAoMRFNm6djmg==
 
-three@^0.150.1:
-  version "0.150.1"
-  resolved "https://registry.yarnpkg.com/three/-/three-0.150.1.tgz#870d324a4d2daf1c7d55be97f3f73d83783e28be"
-  integrity sha512-5C1MqKUWaHYo13BX0Q64qcdwImgnnjSOFgBscOzAo8MYCzEtqfQqorEKMcajnA3FHy1yVlIe9AmaMQ0OQracNA==
+three@^0.155.0:
+  version "0.155.0"
+  resolved "https://registry.yarnpkg.com/three/-/three-0.155.0.tgz#cca9b8ad817830c8b4fdd8f0d9a12a2e413a2672"
+  integrity sha512-sNgCYmDijnIqkD/bMfk+1pHg3YzsxW7V2ChpuP6HCQ8NiZr3RufsXQr8M3SSUMjW4hG+sUk7YbyuY0DncaDTJQ==
 
 throat@^6.0.1:
   version "6.0.2"
