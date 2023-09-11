@@ -10676,10 +10676,10 @@ text-table@^0.2.0:
   resolved "https://registry.yarnpkg.com/text-table/-/text-table-0.2.0.tgz#7f5ee823ae805207c00af2df4a84ec3fcfa570b4"
   integrity sha512-N+8UisAXDGk8PFXP4HAzVR9nbfmVJ3zYLAWiTIoqC5v5isinhr+r5uaO8+7r3BMfuNIufIsA7RdpVgacC2cSpw==
 
-three.interactive@^1.6.1:
-  version "1.6.1"
-  resolved "https://registry.yarnpkg.com/three.interactive/-/three.interactive-1.6.1.tgz#cf8382f8ed9d960be39fcd506cf6beec5a99adea"
-  integrity sha512-aL1d25kThuqqijg9fbUvXGb5JYiw+TqEmvt/Mic4Hi+FWhICWKKPZqZTymSV0d5AzmlQzHpYtrAoMRFNm6djmg==
+three.interactive@^1.7.0:
+  version "1.7.0"
+  resolved "https://registry.yarnpkg.com/three.interactive/-/three.interactive-1.7.0.tgz#1bbe484114a3b700a40fba3424ca5c88622055e2"
+  integrity sha512-WuJijcJUT8cxiU3iP7FbqjN9EtU4xuVH/YR+jmEV4dG5ijNE8KeZcQtFRuK2dlJk4AGwCFte1GPUxAR7hYyo3g==
 
 three@^0.150.1:
   version "0.150.1"
